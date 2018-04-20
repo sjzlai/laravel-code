@@ -1,0 +1,19 @@
+{
+  "name": "sjzlai/code",
+  "description": "code make in laravel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sjzlai",
+      "email": "sjzlai520@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Sjzlai\\Code\\": "src/"
+    }
+  }
+}
