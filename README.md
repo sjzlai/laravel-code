@@ -13,7 +13,7 @@ composer require sjzlai/code
 
 1.打开laravel项目中 `config\app.php`
 
-2.找到`providers`数组，在最下面添加` sjzlai\Code\CodeServiceProvider::class`              注意 “**，**”
+2.找到`providers`数组，在最下面添加` Sjzlai\Code\CodeServiceProvider::class`              注意 “**，**”
 
 
 
